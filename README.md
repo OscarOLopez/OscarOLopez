@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OscarOLopez
+# 👋 Hi, I’m Oscar Lopez
 - 👀 I’m interested in cybersecurity, web development, python
 - 🌱 I’m currently learning Fullstack website
 - 💞️ I’m looking to collaborate on ... Idk yet
